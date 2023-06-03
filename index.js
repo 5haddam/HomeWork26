@@ -1,4 +1,4 @@
-let marvelHeroes = [
+const marvelHeroes = [
 	{
 		name: "Thor"
 	},
@@ -7,7 +7,7 @@ let marvelHeroes = [
 	}
 ];
 
-let dcHeroes = [
+const dcHeroes = [
 	{
 		name: "Superman"
 	},
