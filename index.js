@@ -35,3 +35,4 @@ Array.prototype.heroesRender = function(pathName) {
 
 marvelHeroes.heroesRender('marvel');
 dcHeroes.heroesRender('dc');
+ 
